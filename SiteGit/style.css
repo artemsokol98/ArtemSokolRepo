@@ -1,0 +1,90 @@
+*{
+  font-family: sans-serif;
+
+
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+li{
+  list-style-type: none;
+  margin-bottom: 1%;
+}
+ul{
+  padding-left: 0; margin-left: 0;
+}
+.strong-font{
+  font-weight: 600;
+}
+.BlueFont{
+  color: rgb(23,69,135);
+}
+.zagolovok{
+  background-color: rgb(28,50,96);
+  color: rgb(255, 255, 255);
+  margin-left: 7.5%;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+.zagolovok-1{
+  background-color: rgb(28,50,96);
+
+}
+.first_paragraph{
+  background-color: rgb(23,69,135);
+  color: rgb(255, 255, 255);
+  margin-left: 7.5%;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 8vh;
+  padding-bottom: 8vh;
+}
+.first_paragraph-1{
+  background-color: rgb(23,69,135);
+
+}
+.flex-container{
+  margin-left: 5%;
+  margin-right: 5%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: top;
+}
+.flex-container-footer{
+  margin-left: 0;
+  margin-right: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(28,50,96);
+}
+.section-1{
+  text-align: left;
+  width: 45%;
+}
+.section-2{
+  text-align: left;
+  width: 95%;
+}
+.section-3{
+  text-align: center;
+  width: 45vw;
+}
+.section-4{
+  text-align: left;
+  width: 80%;
+  padding:2.5%;
+}
+.image_GitHub_Flow{
+
+  width: 90vw;
+}
+.Glossary{
+  margin-left: 7.5%;
+
+}
